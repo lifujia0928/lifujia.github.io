@@ -165,7 +165,8 @@ p.lead {
 p.t {
   font-size: 1.8rem;
   line-height: 1.8;
-  margin-bottom: 3.6rem;
+  margin-bottom: 1.8rem;
+  font-weight: bold;
 }
 
 p.names {
