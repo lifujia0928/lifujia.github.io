@@ -163,15 +163,17 @@ p.lead {
   margin-bottom: 3.6rem;
 }
 p.t {
+  font-family: "montserrat-regular", sans-serif;
   font-size: 1.8rem;
   line-height: 1.8;
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.0rem;
   font-weight: bold;
 }
 
 p.names {
-    font-size: 1.8rem;
-    margin-bottom: 1.2rem;
+  font-family: "montserrat-regular", sans-serif;
+    font-size: 1.6rem;
+    margin-bottom: 1.4rem;
     font-weight: 100;
   }
 
@@ -195,6 +197,7 @@ em, i {
 
 strong, b {
   font-family: "librebaskerville-bold", serif;
+  font-weight: bold;
 }
 
 small {
