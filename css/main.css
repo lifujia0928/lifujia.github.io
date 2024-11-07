@@ -165,14 +165,14 @@ p.lead {
 p.t {
   font-size: 1.8rem;
   line-height: 1.8;
-  margin-bottom: 1.8rem;
+  margin-bottom: 1.2rem;
   font-weight: bold;
 }
 
 p.names {
     font-size: 1.8rem;
-    margin-bottom: 1.8rem;
-    font-weight: normal;
+    margin-bottom: 1.2rem;
+    font-weight: 100;
   }
 
 @media only screen and (max-width: 768px) {
