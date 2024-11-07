@@ -208,6 +208,18 @@ strong, b {
   font-weight: bold;
 }
 
+m_em, m_i, m_strong, m_b {
+  font-size: 1.6rem;
+  font-style: normal;
+}
+m_em, m_i {
+  font-family: "montserrat-italic", serif;
+}
+m_strong, m_b {
+  font-family: "montserrat-regular", serif;
+  font-weight: 300;
+}
+
 small {
   font-size: 1.1rem;
   line-height: inherit;
