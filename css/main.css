@@ -178,13 +178,6 @@ p.names {
     font-weight: 100;
   }
 
-p.names_b {
-  font-family: "montserrat-regular", sans-serif;
-    font-size: 1.6rem;
-    margin-bottom: 1.4rem;
-    font-weight: 300;
-  }
-
 @media only screen and (max-width: 768px) {
   p.lead {
     font-size: 1.8rem;
@@ -216,8 +209,11 @@ m_em, m_i {
   font-family: "montserrat-italic", serif;
 }
 m_strong, m_b {
-  font-family: "montserrat-regular", serif;
-  font-weight: 300;
+  font-family: "montserrat-regular", sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.6;
+  margin-bottom: 1.0rem;
+  font-weight: bold;
 }
 
 small {
